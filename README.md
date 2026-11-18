@@ -2,6 +2,8 @@
 
 Portfólio pessoal de Nicolas de Sousa, desenvolvedor full stack e estudante de Análise e Desenvolvimento de Sistemas. Reúne projetos de software, conquistas acadêmicas e canais de contato.
 
+[Acessar o portfólio](https://portfolio-phi-six-lgvojicdpr.vercel.app/)
+
 ## Projetos
 
 - **PlannedGoal** — aplicação de educação financeira para simular metas e analisar sua viabilidade com o Google Gemini.
